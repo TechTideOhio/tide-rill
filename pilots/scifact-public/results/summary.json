@@ -1,0 +1,26 @@
+{
+  "document_count": 5183,
+  "faithfulness": null,
+  "mean_judged_at_10": 0.08866666666666667,
+  "mean_ndcg_at_10": 0.6694964533084881,
+  "mean_precision_at_10": 0.08866666666666667,
+  "mean_recall_at_10": 0.7989444444444445,
+  "mrr_at_10": 0.635404761904762,
+  "python_version": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+  "qrels_count": 339,
+  "qrels_with_metadata": 209,
+  "query_count": 300,
+  "sha256": {
+    "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+    "evidence-map.json": "cb41f924de0bd6fd334d8b2d972a5ff4f11feed113708cd9ec3a3e923a3e558e",
+    "input.json": "8b9c3651ce9b747833dacfb1e3b732390d62b9c21e889efdccbbaaf49697fb67",
+    "pilot.py": "fbed441abe9287f7c6215f9ad42eee3c5f5fea7f4a63817fa5ce229c93f3b08f",
+    "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+    "rankings.json": "0b36a6808bafc3e648d3c16c12f5d7c4e1768e80dedc8a36f5463d62c6ef84ce",
+    "report.json": "2c4d04ff67329a26a2c3d687a579a37e5a62b157aae3df8b7b850a1fe564bfb9",
+    "scifact.zip": "536e14446a0ba56ed1398ab1055f39fe852686ecad24a6306c80c490fa8e0165",
+    "test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c",
+    "tide-rill.exe": "6e4f1dbf5909cd7cc2dec0909db002d7a13786606e18bbbfdc957bec0e293cbd"
+  },
+  "sqlite_version": "3.50.4"
+}

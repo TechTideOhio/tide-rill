@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "k": 2,
+  "query_ids": ["example"],
+  "queries": [
+    {"id": "example", "judgment_status": "complete", "judgments": [{"id": "A", "grade": 2}, {"id": "B", "grade": 1}], "ranking": ["X", "B", "A"]}
+  ],
+  "faithfulness": {
+    "answer_ids": ["answer"],
+    "answers": [
+      {"id": "answer", "complete": true, "claims": [{"id": "claim-1", "label": "supported"}, {"id": "claim-2", "label": "insufficient"}]}
+    ]
+  }
+}

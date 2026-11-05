@@ -1,0 +1,4301 @@
+[
+  {
+    "document_id": "31715818",
+    "grade": 1,
+    "query_id": "1",
+    "rationales": null
+  },
+  {
+    "document_id": "4381486",
+    "grade": 1,
+    "query_id": "100",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "9745001",
+    "grade": 1,
+    "query_id": "1012",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "6277638",
+    "grade": 1,
+    "query_id": "1014",
+    "rationales": null
+  },
+  {
+    "document_id": "11603066",
+    "grade": 1,
+    "query_id": "1019",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "9433958",
+    "grade": 1,
+    "query_id": "1020",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "9433958",
+    "grade": 1,
+    "query_id": "1021",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "5373138",
+    "grade": 1,
+    "query_id": "1024",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13923140",
+    "grade": 1,
+    "query_id": "1029",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13940200",
+    "grade": 1,
+    "query_id": "1029",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "11899391",
+    "grade": 1,
+    "query_id": "1029",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "25254425",
+    "grade": 1,
+    "query_id": "1041",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "16626264",
+    "grade": 1,
+    "query_id": "1041",
+    "rationales": null
+  },
+  {
+    "document_id": "12486491",
+    "grade": 1,
+    "query_id": "1049",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "20381484",
+    "grade": 1,
+    "query_id": "1062",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "39281140",
+    "grade": 1,
+    "query_id": "1086",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "37549932",
+    "grade": 1,
+    "query_id": "1088",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17628888",
+    "grade": 1,
+    "query_id": "1089",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "7662206",
+    "grade": 1,
+    "query_id": "1099",
+    "rationales": null
+  },
+  {
+    "document_id": "7662206",
+    "grade": 1,
+    "query_id": "1100",
+    "rationales": null
+  },
+  {
+    "document_id": "3898784",
+    "grade": 1,
+    "query_id": "1104",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "20532591",
+    "grade": 1,
+    "query_id": "1107",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13770184",
+    "grade": 1,
+    "query_id": "1110",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4456756",
+    "grade": 1,
+    "query_id": "1121",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "6157837",
+    "grade": 1,
+    "query_id": "113",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17997584",
+    "grade": 1,
+    "query_id": "1130",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "33499189",
+    "grade": 1,
+    "query_id": "1132",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "9283422",
+    "grade": 1,
+    "query_id": "1132",
+    "rationales": null
+  },
+  {
+    "document_id": "33370",
+    "grade": 1,
+    "query_id": "1137",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12009265",
+    "grade": 1,
+    "query_id": "1140",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "10071552",
+    "grade": 1,
+    "query_id": "1144",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13906581",
+    "grade": 1,
+    "query_id": "1146",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "33872649",
+    "grade": 1,
+    "query_id": "115",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "11369420",
+    "grade": 1,
+    "query_id": "1150",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "15305881",
+    "grade": 1,
+    "query_id": "1163",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "31272411",
+    "grade": 1,
+    "query_id": "1175",
+    "rationales": null
+  },
+  {
+    "document_id": "31272411",
+    "grade": 1,
+    "query_id": "1179",
+    "rationales": null
+  },
+  {
+    "document_id": "6372244",
+    "grade": 1,
+    "query_id": "118",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          0
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "31272411",
+    "grade": 1,
+    "query_id": "1180",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "16737210",
+    "grade": 1,
+    "query_id": "1185",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "52873726",
+    "grade": 1,
+    "query_id": "1187",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "30655442",
+    "grade": 1,
+    "query_id": "1191",
+    "rationales": null
+  },
+  {
+    "document_id": "11419230",
+    "grade": 1,
+    "query_id": "1194",
+    "rationales": null
+  },
+  {
+    "document_id": "25649714",
+    "grade": 1,
+    "query_id": "1196",
+    "rationales": null
+  },
+  {
+    "document_id": "25649714",
+    "grade": 1,
+    "query_id": "1197",
+    "rationales": null
+  },
+  {
+    "document_id": "16760369",
+    "grade": 1,
+    "query_id": "1199",
+    "rationales": null
+  },
+  {
+    "document_id": "3441524",
+    "grade": 1,
+    "query_id": "1200",
+    "rationales": null
+  },
+  {
+    "document_id": "3475317",
+    "grade": 1,
+    "query_id": "1202",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "31141365",
+    "grade": 1,
+    "query_id": "1204",
+    "rationales": null
+  },
+  {
+    "document_id": "18909530",
+    "grade": 1,
+    "query_id": "1207",
+    "rationales": null
+  },
+  {
+    "document_id": "14407673",
+    "grade": 1,
+    "query_id": "1213",
+    "rationales": null
+  },
+  {
+    "document_id": "24142891",
+    "grade": 1,
+    "query_id": "1216",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "19736671",
+    "grade": 1,
+    "query_id": "1221",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "9650982",
+    "grade": 1,
+    "query_id": "1225",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13777138",
+    "grade": 1,
+    "query_id": "1226",
+    "rationales": null
+  },
+  {
+    "document_id": "13905670",
+    "grade": 1,
+    "query_id": "1232",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4883040",
+    "grade": 1,
+    "query_id": "124",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4427392",
+    "grade": 1,
+    "query_id": "1241",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          0,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "7662395",
+    "grade": 1,
+    "query_id": "1245",
+    "rationales": null
+  },
+  {
+    "document_id": "24341590",
+    "grade": 1,
+    "query_id": "1259",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "44172171",
+    "grade": 1,
+    "query_id": "1262",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "37480103",
+    "grade": 1,
+    "query_id": "1266",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "21598000",
+    "grade": 1,
+    "query_id": "127",
+    "rationales": null
+  },
+  {
+    "document_id": "13900610",
+    "grade": 1,
+    "query_id": "1270",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13768432",
+    "grade": 1,
+    "query_id": "1271",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17081238",
+    "grade": 1,
+    "query_id": "1272",
+    "rationales": null
+  },
+  {
+    "document_id": "11041152",
+    "grade": 1,
+    "query_id": "1273",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12428814",
+    "grade": 1,
+    "query_id": "1274",
+    "rationales": null
+  },
+  {
+    "document_id": "27731651",
+    "grade": 1,
+    "query_id": "1274",
+    "rationales": null
+  },
+  {
+    "document_id": "4406819",
+    "grade": 1,
+    "query_id": "1274",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "11335781",
+    "grade": 1,
+    "query_id": "1278",
+    "rationales": null
+  },
+  {
+    "document_id": "11335781",
+    "grade": 1,
+    "query_id": "1279",
+    "rationales": null
+  },
+  {
+    "document_id": "8290953",
+    "grade": 1,
+    "query_id": "128",
+    "rationales": null
+  },
+  {
+    "document_id": "4387784",
+    "grade": 1,
+    "query_id": "1280",
+    "rationales": null
+  },
+  {
+    "document_id": "4387784",
+    "grade": 1,
+    "query_id": "1281",
+    "rationales": null
+  },
+  {
+    "document_id": "23649163",
+    "grade": 1,
+    "query_id": "1282",
+    "rationales": null
+  },
+  {
+    "document_id": "27768226",
+    "grade": 1,
+    "query_id": "129",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          11
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4687948",
+    "grade": 1,
+    "query_id": "1290",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "56893404",
+    "grade": 1,
+    "query_id": "1292",
+    "rationales": null
+  },
+  {
+    "document_id": "11718220",
+    "grade": 1,
+    "query_id": "1298",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1606628",
+    "grade": 1,
+    "query_id": "13",
+    "rationales": null
+  },
+  {
+    "document_id": "27768226",
+    "grade": 1,
+    "query_id": "130",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12631697",
+    "grade": 1,
+    "query_id": "1303",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          1
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "27910499",
+    "grade": 1,
+    "query_id": "1316",
+    "rationales": null
+  },
+  {
+    "document_id": "16284655",
+    "grade": 1,
+    "query_id": "1319",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "7975937",
+    "grade": 1,
+    "query_id": "132",
+    "rationales": null
+  },
+  {
+    "document_id": "16284655",
+    "grade": 1,
+    "query_id": "1320",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "38485364",
+    "grade": 1,
+    "query_id": "133",
+    "rationales": null
+  },
+  {
+    "document_id": "6969753",
+    "grade": 1,
+    "query_id": "133",
+    "rationales": null
+  },
+  {
+    "document_id": "17934082",
+    "grade": 1,
+    "query_id": "133",
+    "rationales": null
+  },
+  {
+    "document_id": "16280642",
+    "grade": 1,
+    "query_id": "133",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12640810",
+    "grade": 1,
+    "query_id": "133",
+    "rationales": null
+  },
+  {
+    "document_id": "5304891",
+    "grade": 1,
+    "query_id": "1332",
+    "rationales": null
+  },
+  {
+    "document_id": "27910499",
+    "grade": 1,
+    "query_id": "1335",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "27910499",
+    "grade": 1,
+    "query_id": "1336",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "20231138",
+    "grade": 1,
+    "query_id": "1337",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "15482274",
+    "grade": 1,
+    "query_id": "1339",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "9559146",
+    "grade": 1,
+    "query_id": "1344",
+    "rationales": null
+  },
+  {
+    "document_id": "12885341",
+    "grade": 1,
+    "query_id": "1352",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "11614737",
+    "grade": 1,
+    "query_id": "1359",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "8290953",
+    "grade": 1,
+    "query_id": "1362",
+    "rationales": null
+  },
+  {
+    "document_id": "8290953",
+    "grade": 1,
+    "query_id": "1363",
+    "rationales": null
+  },
+  {
+    "document_id": "2425364",
+    "grade": 1,
+    "query_id": "1368",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "26016929",
+    "grade": 1,
+    "query_id": "137",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "2425364",
+    "grade": 1,
+    "query_id": "1370",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "16322674",
+    "grade": 1,
+    "query_id": "1379",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "27123743",
+    "grade": 1,
+    "query_id": "1379",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "23557241",
+    "grade": 1,
+    "query_id": "1379",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17450673",
+    "grade": 1,
+    "query_id": "1379",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17755060",
+    "grade": 1,
+    "query_id": "1382",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "306006",
+    "grade": 1,
+    "query_id": "1385",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "23895668",
+    "grade": 1,
+    "query_id": "1389",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17717391",
+    "grade": 1,
+    "query_id": "1395",
+    "rationales": null
+  },
+  {
+    "document_id": "6955746",
+    "grade": 1,
+    "query_id": "141",
+    "rationales": null
+  },
+  {
+    "document_id": "14437255",
+    "grade": 1,
+    "query_id": "141",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          0
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "10582939",
+    "grade": 1,
+    "query_id": "142",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "10582939",
+    "grade": 1,
+    "query_id": "143",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "10582939",
+    "grade": 1,
+    "query_id": "146",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1084345",
+    "grade": 1,
+    "query_id": "148",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "18872233",
+    "grade": 1,
+    "query_id": "163",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12670680",
+    "grade": 1,
+    "query_id": "171",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          1
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "16322674",
+    "grade": 1,
+    "query_id": "179",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "27123743",
+    "grade": 1,
+    "query_id": "179",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "23557241",
+    "grade": 1,
+    "query_id": "179",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17450673",
+    "grade": 1,
+    "query_id": "179",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "16966326",
+    "grade": 1,
+    "query_id": "180",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12827098",
+    "grade": 1,
+    "query_id": "183",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "18340282",
+    "grade": 1,
+    "query_id": "185",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "2177022",
+    "grade": 1,
+    "query_id": "198",
+    "rationales": null
+  },
+  {
+    "document_id": "13519661",
+    "grade": 1,
+    "query_id": "208",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "22038539",
+    "grade": 1,
+    "query_id": "212",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          1
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13625993",
+    "grade": 1,
+    "query_id": "213",
+    "rationales": null
+  },
+  {
+    "document_id": "21366394",
+    "grade": 1,
+    "query_id": "216",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "21366394",
+    "grade": 1,
+    "query_id": "217",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "21366394",
+    "grade": 1,
+    "query_id": "218",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "21366394",
+    "grade": 1,
+    "query_id": "219",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "3067015",
+    "grade": 1,
+    "query_id": "230",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "10536636",
+    "grade": 1,
+    "query_id": "232",
+    "rationales": null
+  },
+  {
+    "document_id": "4388470",
+    "grade": 1,
+    "query_id": "233",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4388470",
+    "grade": 1,
+    "query_id": "236",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4942718",
+    "grade": 1,
+    "query_id": "237",
+    "rationales": null
+  },
+  {
+    "document_id": "2251426",
+    "grade": 1,
+    "query_id": "238",
+    "rationales": null
+  },
+  {
+    "document_id": "14079881",
+    "grade": 1,
+    "query_id": "239",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1568684",
+    "grade": 1,
+    "query_id": "248",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1568684",
+    "grade": 1,
+    "query_id": "249",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1122279",
+    "grade": 1,
+    "query_id": "261",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "10697096",
+    "grade": 1,
+    "query_id": "261",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "970012",
+    "grade": 1,
+    "query_id": "268",
+    "rationales": null
+  },
+  {
+    "document_id": "970012",
+    "grade": 1,
+    "query_id": "269",
+    "rationales": null
+  },
+  {
+    "document_id": "11614737",
+    "grade": 1,
+    "query_id": "274",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4961038",
+    "grade": 1,
+    "query_id": "275",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "14241418",
+    "grade": 1,
+    "query_id": "275",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "14819804",
+    "grade": 1,
+    "query_id": "275",
+    "rationales": null
+  },
+  {
+    "document_id": "14376683",
+    "grade": 1,
+    "query_id": "279",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "10874408",
+    "grade": 1,
+    "query_id": "294",
+    "rationales": null
+  },
+  {
+    "document_id": "20310709",
+    "grade": 1,
+    "query_id": "295",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "39381118",
+    "grade": 1,
+    "query_id": "298",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "14717500",
+    "grade": 1,
+    "query_id": "3",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "3553087",
+    "grade": 1,
+    "query_id": "300",
+    "rationales": null
+  },
+  {
+    "document_id": "4388470",
+    "grade": 1,
+    "query_id": "303",
+    "rationales": null
+  },
+  {
+    "document_id": "6173523",
+    "grade": 1,
+    "query_id": "312",
+    "rationales": null
+  },
+  {
+    "document_id": "4347374",
+    "grade": 1,
+    "query_id": "314",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "2014909",
+    "grade": 1,
+    "query_id": "324",
+    "rationales": null
+  },
+  {
+    "document_id": "17997584",
+    "grade": 1,
+    "query_id": "327",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "23349986",
+    "grade": 1,
+    "query_id": "338",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          12
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "7873737",
+    "grade": 1,
+    "query_id": "343",
+    "rationales": null
+  },
+  {
+    "document_id": "5884524",
+    "grade": 1,
+    "query_id": "343",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "16927286",
+    "grade": 1,
+    "query_id": "350",
+    "rationales": null
+  },
+  {
+    "document_id": "8774475",
+    "grade": 1,
+    "query_id": "354",
+    "rationales": null
+  },
+  {
+    "document_id": "5152028",
+    "grade": 1,
+    "query_id": "36",
+    "rationales": null
+  },
+  {
+    "document_id": "11705328",
+    "grade": 1,
+    "query_id": "36",
+    "rationales": null
+  },
+  {
+    "document_id": "38587347",
+    "grade": 1,
+    "query_id": "362",
+    "rationales": null
+  },
+  {
+    "document_id": "19005293",
+    "grade": 1,
+    "query_id": "380",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13770184",
+    "grade": 1,
+    "query_id": "384",
+    "rationales": null
+  },
+  {
+    "document_id": "9955779",
+    "grade": 1,
+    "query_id": "385",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "9767444",
+    "grade": 1,
+    "query_id": "385",
+    "rationales": null
+  },
+  {
+    "document_id": "16495649",
+    "grade": 1,
+    "query_id": "386",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1148122",
+    "grade": 1,
+    "query_id": "388",
+    "rationales": null
+  },
+  {
+    "document_id": "791050",
+    "grade": 1,
+    "query_id": "399",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "14924526",
+    "grade": 1,
+    "query_id": "410",
+    "rationales": null
+  },
+  {
+    "document_id": "14924526",
+    "grade": 1,
+    "query_id": "411",
+    "rationales": null
+  },
+  {
+    "document_id": "6309659",
+    "grade": 1,
+    "query_id": "415",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "18174210",
+    "grade": 1,
+    "query_id": "42",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          1,
+          9
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "11172205",
+    "grade": 1,
+    "query_id": "421",
+    "rationales": null
+  },
+  {
+    "document_id": "28937856",
+    "grade": 1,
+    "query_id": "431",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "14637235",
+    "grade": 1,
+    "query_id": "436",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "18399038",
+    "grade": 1,
+    "query_id": "437",
+    "rationales": null
+  },
+  {
+    "document_id": "4423559",
+    "grade": 1,
+    "query_id": "439",
+    "rationales": null
+  },
+  {
+    "document_id": "4423559",
+    "grade": 1,
+    "query_id": "440",
+    "rationales": null
+  },
+  {
+    "document_id": "10165258",
+    "grade": 1,
+    "query_id": "443",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4,
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12804937",
+    "grade": 1,
+    "query_id": "452",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "464511",
+    "grade": 1,
+    "query_id": "452",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "18678095",
+    "grade": 1,
+    "query_id": "475",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "14767844",
+    "grade": 1,
+    "query_id": "478",
+    "rationales": null
+  },
+  {
+    "document_id": "13734012",
+    "grade": 1,
+    "query_id": "48",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "5953485",
+    "grade": 1,
+    "query_id": "49",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "56893404",
+    "grade": 1,
+    "query_id": "491",
+    "rationales": null
+  },
+  {
+    "document_id": "13734012",
+    "grade": 1,
+    "query_id": "5",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12580014",
+    "grade": 1,
+    "query_id": "50",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17930286",
+    "grade": 1,
+    "query_id": "501",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13071728",
+    "grade": 1,
+    "query_id": "502",
+    "rationales": null
+  },
+  {
+    "document_id": "30774694",
+    "grade": 1,
+    "query_id": "507",
+    "rationales": null
+  },
+  {
+    "document_id": "13980338",
+    "grade": 1,
+    "query_id": "508",
+    "rationales": null
+  },
+  {
+    "document_id": "45638119",
+    "grade": 1,
+    "query_id": "51",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13230773",
+    "grade": 1,
+    "query_id": "513",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "16256507",
+    "grade": 1,
+    "query_id": "514",
+    "rationales": null
+  },
+  {
+    "document_id": "29564505",
+    "grade": 1,
+    "query_id": "516",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "15663829",
+    "grade": 1,
+    "query_id": "517",
+    "rationales": null
+  },
+  {
+    "document_id": "34873974",
+    "grade": 1,
+    "query_id": "521",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13639330",
+    "grade": 1,
+    "query_id": "525",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "3863543",
+    "grade": 1,
+    "query_id": "527",
+    "rationales": null
+  },
+  {
+    "document_id": "5476778",
+    "grade": 1,
+    "query_id": "528",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "45638119",
+    "grade": 1,
+    "query_id": "53",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12991445",
+    "grade": 1,
+    "query_id": "532",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          11
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12991445",
+    "grade": 1,
+    "query_id": "533",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "39368721",
+    "grade": 1,
+    "query_id": "535",
+    "rationales": null
+  },
+  {
+    "document_id": "16056514",
+    "grade": 1,
+    "query_id": "536",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13282296",
+    "grade": 1,
+    "query_id": "539",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "49556906",
+    "grade": 1,
+    "query_id": "54",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "11886686",
+    "grade": 1,
+    "query_id": "540",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "25007443",
+    "grade": 1,
+    "query_id": "540",
+    "rationales": null
+  },
+  {
+    "document_id": "24221369",
+    "grade": 1,
+    "query_id": "544",
+    "rationales": null
+  },
+  {
+    "document_id": "9433958",
+    "grade": 1,
+    "query_id": "549",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "33499189",
+    "grade": 1,
+    "query_id": "551",
+    "rationales": null
+  },
+  {
+    "document_id": "1471041",
+    "grade": 1,
+    "query_id": "552",
+    "rationales": null
+  },
+  {
+    "document_id": "1049501",
+    "grade": 1,
+    "query_id": "554",
+    "rationales": null
+  },
+  {
+    "document_id": "4709641",
+    "grade": 1,
+    "query_id": "56",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "40096222",
+    "grade": 1,
+    "query_id": "560",
+    "rationales": null
+  },
+  {
+    "document_id": "23460562",
+    "grade": 1,
+    "query_id": "569",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4709641",
+    "grade": 1,
+    "query_id": "57",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "10300888",
+    "grade": 1,
+    "query_id": "575",
+    "rationales": null
+  },
+  {
+    "document_id": "5289038",
+    "grade": 1,
+    "query_id": "577",
+    "rationales": null
+  },
+  {
+    "document_id": "8764879",
+    "grade": 1,
+    "query_id": "578",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "16999023",
+    "grade": 1,
+    "query_id": "587",
+    "rationales": null
+  },
+  {
+    "document_id": "10984005",
+    "grade": 1,
+    "query_id": "589",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "19675911",
+    "grade": 1,
+    "query_id": "593",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12779444",
+    "grade": 1,
+    "query_id": "597",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "36355784",
+    "grade": 1,
+    "query_id": "597",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "25742130",
+    "grade": 1,
+    "query_id": "597",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "25742130",
+    "grade": 1,
+    "query_id": "598",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "9638032",
+    "grade": 1,
+    "query_id": "613",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "20888849",
+    "grade": 1,
+    "query_id": "619",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "2565138",
+    "grade": 1,
+    "query_id": "619",
+    "rationales": null
+  },
+  {
+    "document_id": "17000834",
+    "grade": 1,
+    "query_id": "623",
+    "rationales": null
+  },
+  {
+    "document_id": "24512064",
+    "grade": 1,
+    "query_id": "628",
+    "rationales": null
+  },
+  {
+    "document_id": "24294572",
+    "grade": 1,
+    "query_id": "636",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "25649714",
+    "grade": 1,
+    "query_id": "637",
+    "rationales": null
+  },
+  {
+    "document_id": "5912283",
+    "grade": 1,
+    "query_id": "641",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "31554917",
+    "grade": 1,
+    "query_id": "641",
+    "rationales": null
+  },
+  {
+    "document_id": "13619127",
+    "grade": 1,
+    "query_id": "644",
+    "rationales": null
+  },
+  {
+    "document_id": "12789595",
+    "grade": 1,
+    "query_id": "649",
+    "rationales": null
+  },
+  {
+    "document_id": "1215116",
+    "grade": 1,
+    "query_id": "659",
+    "rationales": null
+  },
+  {
+    "document_id": "1215116",
+    "grade": 1,
+    "query_id": "660",
+    "rationales": null
+  },
+  {
+    "document_id": "2095573",
+    "grade": 1,
+    "query_id": "674",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4942718",
+    "grade": 1,
+    "query_id": "684",
+    "rationales": null
+  },
+  {
+    "document_id": "18750453",
+    "grade": 1,
+    "query_id": "690",
+    "rationales": null
+  },
+  {
+    "document_id": "10991183",
+    "grade": 1,
+    "query_id": "691",
+    "rationales": null
+  },
+  {
+    "document_id": "24088502",
+    "grade": 1,
+    "query_id": "692",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "24088502",
+    "grade": 1,
+    "query_id": "693",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "5956380",
+    "grade": 1,
+    "query_id": "70",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4414547",
+    "grade": 1,
+    "query_id": "70",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4350400",
+    "grade": 1,
+    "query_id": "700",
+    "rationales": null
+  },
+  {
+    "document_id": "4350400",
+    "grade": 1,
+    "query_id": "702",
+    "rationales": null
+  },
+  {
+    "document_id": "18421962",
+    "grade": 1,
+    "query_id": "715",
+    "rationales": null
+  },
+  {
+    "document_id": "18421962",
+    "grade": 1,
+    "query_id": "716",
+    "rationales": null
+  },
+  {
+    "document_id": "17587795",
+    "grade": 1,
+    "query_id": "718",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "6076903",
+    "grade": 1,
+    "query_id": "72",
+    "rationales": null
+  },
+  {
+    "document_id": "1834762",
+    "grade": 1,
+    "query_id": "721",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "5531479",
+    "grade": 1,
+    "query_id": "723",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "7521113",
+    "grade": 1,
+    "query_id": "727",
+    "rationales": null
+  },
+  {
+    "document_id": "7521113",
+    "grade": 1,
+    "query_id": "728",
+    "rationales": null
+  },
+  {
+    "document_id": "36444198",
+    "grade": 1,
+    "query_id": "728",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "26851674",
+    "grade": 1,
+    "query_id": "729",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "32159283",
+    "grade": 1,
+    "query_id": "742",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "32159283",
+    "grade": 1,
+    "query_id": "743",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "8460275",
+    "grade": 1,
+    "query_id": "744",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "4387784",
+    "grade": 1,
+    "query_id": "75",
+    "rationales": null
+  },
+  {
+    "document_id": "2831620",
+    "grade": 1,
+    "query_id": "756",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1805641",
+    "grade": 1,
+    "query_id": "759",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "6421792",
+    "grade": 1,
+    "query_id": "768",
+    "rationales": null
+  },
+  {
+    "document_id": "15476777",
+    "grade": 1,
+    "query_id": "770",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "32275758",
+    "grade": 1,
+    "query_id": "775",
+    "rationales": null
+  },
+  {
+    "document_id": "24338780",
+    "grade": 1,
+    "query_id": "781",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "40632104",
+    "grade": 1,
+    "query_id": "783",
+    "rationales": null
+  },
+  {
+    "document_id": "2356950",
+    "grade": 1,
+    "query_id": "784",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "12471115",
+    "grade": 1,
+    "query_id": "785",
+    "rationales": null
+  },
+  {
+    "document_id": "8551160",
+    "grade": 1,
+    "query_id": "793",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "22543403",
+    "grade": 1,
+    "query_id": "800",
+    "rationales": null
+  },
+  {
+    "document_id": "22180793",
+    "grade": 1,
+    "query_id": "805",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "36606083",
+    "grade": 1,
+    "query_id": "808",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "19799455",
+    "grade": 1,
+    "query_id": "811",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "33387953",
+    "grade": 1,
+    "query_id": "814",
+    "rationales": null
+  },
+  {
+    "document_id": "8646760",
+    "grade": 1,
+    "query_id": "820",
+    "rationales": null
+  },
+  {
+    "document_id": "8646760",
+    "grade": 1,
+    "query_id": "821",
+    "rationales": null
+  },
+  {
+    "document_id": "15319019",
+    "grade": 1,
+    "query_id": "823",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1897324",
+    "grade": 1,
+    "query_id": "830",
+    "rationales": null
+  },
+  {
+    "document_id": "1897324",
+    "grade": 1,
+    "query_id": "831",
+    "rationales": null
+  },
+  {
+    "document_id": "30303335",
+    "grade": 1,
+    "query_id": "832",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "5483793",
+    "grade": 1,
+    "query_id": "834",
+    "rationales": null
+  },
+  {
+    "document_id": "15928989",
+    "grade": 1,
+    "query_id": "837",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1469751",
+    "grade": 1,
+    "query_id": "839",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17741440",
+    "grade": 1,
+    "query_id": "845",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "16787954",
+    "grade": 1,
+    "query_id": "847",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "13843341",
+    "grade": 1,
+    "query_id": "852",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1982286",
+    "grade": 1,
+    "query_id": "859",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "195689316",
+    "grade": 1,
+    "query_id": "870",
+    "rationales": null
+  },
+  {
+    "document_id": "1180972",
+    "grade": 1,
+    "query_id": "873",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "19307912",
+    "grade": 1,
+    "query_id": "873",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "27393799",
+    "grade": 1,
+    "query_id": "873",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "29025270",
+    "grade": 1,
+    "query_id": "873",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          1
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "3315558",
+    "grade": 1,
+    "query_id": "873",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "8426046",
+    "grade": 1,
+    "query_id": "879",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "8426046",
+    "grade": 1,
+    "query_id": "880",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "14803797",
+    "grade": 1,
+    "query_id": "882",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "18855191",
+    "grade": 1,
+    "query_id": "887",
+    "rationales": null
+  },
+  {
+    "document_id": "10648422",
+    "grade": 1,
+    "query_id": "903",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "7370282",
+    "grade": 1,
+    "query_id": "904",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "6923961",
+    "grade": 1,
+    "query_id": "907",
+    "rationales": null
+  },
+  {
+    "document_id": "11254556",
+    "grade": 1,
+    "query_id": "911",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "3203590",
+    "grade": 1,
+    "query_id": "913",
+    "rationales": null
+  },
+  {
+    "document_id": "3203590",
+    "grade": 1,
+    "query_id": "914",
+    "rationales": null
+  },
+  {
+    "document_id": "1642727",
+    "grade": 1,
+    "query_id": "921",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          10
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "17077004",
+    "grade": 1,
+    "query_id": "922",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          7
+        ]
+      },
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "5483793",
+    "grade": 1,
+    "query_id": "936",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "1215116",
+    "grade": 1,
+    "query_id": "94",
+    "rationales": null
+  },
+  {
+    "document_id": "12956194",
+    "grade": 1,
+    "query_id": "956",
+    "rationales": null
+  },
+  {
+    "document_id": "123859",
+    "grade": 1,
+    "query_id": "957",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "8780599",
+    "grade": 1,
+    "query_id": "960",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          6
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "2119889",
+    "grade": 1,
+    "query_id": "967",
+    "rationales": null
+  },
+  {
+    "document_id": "8997410",
+    "grade": 1,
+    "query_id": "967",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "46695481",
+    "grade": 1,
+    "query_id": "971",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          0
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "27873158",
+    "grade": 1,
+    "query_id": "971",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          0
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          15
+        ]
+      },
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "28617573",
+    "grade": 1,
+    "query_id": "971",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "9764256",
+    "grade": 1,
+    "query_id": "971",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "5304891",
+    "grade": 1,
+    "query_id": "975",
+    "rationales": null
+  },
+  {
+    "document_id": "2988714",
+    "grade": 1,
+    "query_id": "982",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "6828370",
+    "grade": 1,
+    "query_id": "985",
+    "rationales": [
+      {
+        "label": "SUPPORT",
+        "sentences": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "18810195",
+    "grade": 1,
+    "query_id": "99",
+    "rationales": null
+  },
+  {
+    "document_id": "16472469",
+    "grade": 1,
+    "query_id": "993",
+    "rationales": [
+      {
+        "label": "CONTRADICT",
+        "sentences": [
+          4
+        ]
+      }
+    ]
+  }
+]

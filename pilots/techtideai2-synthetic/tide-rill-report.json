@@ -1,0 +1,58 @@
+﻿{
+  "version": 2,
+  "k": 3,
+  "ndcg_gain": "linear",
+  "queries": [
+    {
+      "id": "q-rollback",
+      "recall": 1.0,
+      "precision": 0.6666666666666666,
+      "hit": 1.0,
+      "reciprocal_rank": 1.0,
+      "ndcg": 0.8597186998521972,
+      "judged_at_k": 1.0,
+      "returned_total": 6,
+      "returned_at_k": 3,
+      "judged_positives": 2
+    },
+    {
+      "id": "q-exposed-key",
+      "recall": 1.0,
+      "precision": 0.6666666666666666,
+      "hit": 1.0,
+      "reciprocal_rank": 1.0,
+      "ndcg": 0.8597186998521972,
+      "judged_at_k": 1.0,
+      "returned_total": 6,
+      "returned_at_k": 3,
+      "judged_positives": 2
+    },
+    {
+      "id": "q-retention",
+      "recall": 1.0,
+      "precision": 0.6666666666666666,
+      "hit": 1.0,
+      "reciprocal_rank": 1.0,
+      "ndcg": 1.0,
+      "judged_at_k": 1.0,
+      "returned_total": 6,
+      "returned_at_k": 3,
+      "judged_positives": 2
+    },
+    {
+      "id": "q-no-answer",
+      "recall": null,
+      "precision": 0.0,
+      "hit": null,
+      "reciprocal_rank": null,
+      "ndcg": null,
+      "judged_at_k": 1.0,
+      "returned_total": 6,
+      "returned_at_k": 3,
+      "judged_positives": 0
+    }
+  ],
+  "mean_reciprocal_rank": 1.0,
+  "mrr_eligible_queries": 3,
+  "faithfulness": null
+}

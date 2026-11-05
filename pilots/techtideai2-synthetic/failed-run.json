@@ -1,0 +1,12 @@
+{
+  "status": "failed",
+  "repo_commit": "ee82ad39f8e322d5ca2c4cf4a474c993a646eb95",
+  "weaviate_image": "cr.weaviate.io/semitechnologies/weaviate@sha256:7dba0539f640539f83e14bfe4fcf73581a3e3a0c07ff60c3b32f85b3a992e7ed",
+  "phase": "first_search",
+  "chunks_verified_stored": 6,
+  "successful_searches": 0,
+  "error": "Weaviate GraphQL rejected $vector [Float!]! for GetObjectsKnowledgeChunkNearVectorVectorScalar and $orgId String! for TextGetObjectsKnowledgeChunk.",
+  "source_execution": "Pinned TechTideAI2 repository and Weaviate service were loaded after TypeScript type stripping. Configuration and error-class imports were replaced with isolated pilot equivalents. Synthetic inputs used a local 512-dimensional lexical hash, not the production OpenAI embedding model.",
+  "rankings_available": false,
+  "scored": false
+}

@@ -1,0 +1,22 @@
+import { createHash } from 'node:crypto';
+import { readFile, writeFile } from 'node:fs/promises';
+const read = (name) => readFile(new URL(name, import.meta.url), 'utf8');
+const runPath = process.env.PILOT_RUN;
+const outputPath = process.env.PILOT_SCORE_INPUT;
+if (!runPath || !outputPath) throw Error('Set PILOT_RUN and PILOT_SCORE_INPUT to explicit paths');
+const [corpusText, judgmentsText, runText] = await Promise.all([read('./corpus.json'), read('./draft-judgments.json'), readFile(runPath, 'utf8')]);
+const hash = text => createHash('sha256').update(text).digest('hex');
+if (hash(corpusText) !== 'fa21f469d6d3f2f9ad303e762a0d91adecd7a2b792aef8c17efcdd530850a375' || hash(judgmentsText) !== '28fc2468fc8338b65754efadb929bbac47ab6e587a5842a17f091a174ce0e382') throw Error('Frozen pilot inputs changed');
+const corpus = JSON.parse(corpusText), draft = JSON.parse(judgmentsText), run = JSON.parse(runText);
+if (run.corpus_sha256 !== hash(corpusText) || run.judgments_sha256 !== hash(judgmentsText) || run.results.length !== draft.queries.length) throw Error('Run provenance mismatch');
+const ids = new Set(corpus.chunks.map(c => c.id));
+if (ids.size !== corpus.chunks.length || new Set(run.results.map(r => r.id)).size !== run.results.length) throw Error('Duplicate identifiers');
+const queries = draft.queries.map(q => {
+  const r = run.results.find(x => x.id === q.id);
+  if (!r || r.status !== 'success' || r.ranking.some(x => !ids.has(x.id)) || new Set(r.ranking.map(x => x.id)).size !== r.ranking.length) throw Error('Incomplete or invalid retrieval run');
+  const judgments = corpus.chunks.map(c => ({ id: c.id, grade: q.grades_by_chunk_suffix[c.id.slice(-4)] }));
+  if (judgments.some(x => ![0, 1, 2].includes(x.grade))) throw Error('Missing judgment');
+  return { id: q.id, judgment_status: 'complete', judgments, ranking: r.ranking.map(x => x.id) };
+});
+await writeFile(outputPath, JSON.stringify({version: 2, k: 3, query_ids: queries.map(q => q.id), queries}, null, 2) + '\n', {flag:'wx'});
+console.log(`Prepared ${queries.length} queries at k=3; judgment completeness means all corpus items were graded, not human adjudication.`);

@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "repo_base_commit": "ee82ad39f8e322d5ca2c4cf4a474c993a646eb95",
+  "repository_source": "local patched working tree",
+  "repository_source_sha256": "2ceb76f02b406a9e2d2816e8f6adf85e50df0771a03e75c69db7f7ceb57d4dad",
+  "service_source_sha256": "38f84aff56ace345a57796648215c91c22a333c2deb9502483becd61313e7a69",
+  "corpus_sha256": "fa21f469d6d3f2f9ad303e762a0d91adecd7a2b792aef8c17efcdd530850a375",
+  "judgments_sha256": "28fc2468fc8338b65754efadb929bbac47ab6e587a5842a17f091a174ce0e382",
+  "embedding": "local lexical SHA-256 feature hash, 512 dimensions, L2 normalized",
+  "limit": 6,
+  "results": [
+    {
+      "id": "q-rollback",
+      "status": "success",
+      "ranking": [
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+          "distance": 0.69227123
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+          "distance": 0.7678808
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+          "distance": 0.8256285
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+          "distance": 0.93649995
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+          "distance": 1
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "q-exposed-key",
+      "status": "success",
+      "ranking": [
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+          "distance": 0.6352314
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+          "distance": 0.7281425
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+          "distance": 0.9003729
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+          "distance": 0.9517195
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+          "distance": 0.96358216
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "q-retention",
+      "status": "success",
+      "ranking": [
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+          "distance": 0.72846234
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+          "distance": 0.8596275
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+          "distance": 0.87572604
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+          "distance": 0.95037085
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+          "distance": 1
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "q-no-answer",
+      "status": "success",
+      "ranking": [
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+          "distance": 0.86840963
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+          "distance": 0.87572604
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+          "distance": 0.90074164
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+          "distance": 0.93211555
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+          "distance": 1
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+          "distance": 1
+        }
+      ]
+    }
+  ]
+}

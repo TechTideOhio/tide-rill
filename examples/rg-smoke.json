@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "k": 2,
+  "query_ids": ["literal-reciprocal-rank"],
+  "queries": [
+    {
+      "id": "literal-reciprocal-rank",
+      "judgment_status": "complete",
+      "judgments": [
+        {"id": "src/lib.rs", "grade": 1},
+        {"id": "tests/evaluation.rs", "grade": 1}
+      ],
+      "ranking": ["src/lib.rs", "tests/evaluation.rs"]
+    }
+  ]
+}

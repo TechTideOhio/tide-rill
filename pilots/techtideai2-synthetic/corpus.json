@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "description": "Fictional documents for an internal retrieval feasibility pilot. No customer or production data.",
+  "chunks": [
+    {"id": "3ad3b03f-8a4f-4477-9ca2-ab0000000001", "document_id": "doc-beacon", "chunk_index": 0, "title": "Beacon release rollback", "content": "To roll back a Beacon release, select the previous signed deployment in the console and confirm the rollback. Verify the health check after the switch."},
+    {"id": "3ad3b03f-8a4f-4477-9ca2-ab0000000002", "document_id": "doc-beacon", "chunk_index": 1, "title": "Beacon release approval", "content": "Beacon production releases require approval from the service owner before deployment. Staging releases do not require this approval."},
+    {"id": "3ad3b03f-8a4f-4477-9ca2-ab0000000003", "document_id": "doc-coral", "chunk_index": 0, "title": "Coral key rotation", "content": "Rotate a Coral API key by creating a replacement, updating clients, and revoking the old key only after all clients have migrated."},
+    {"id": "3ad3b03f-8a4f-4477-9ca2-ab0000000004", "document_id": "doc-coral", "chunk_index": 1, "title": "Coral incident response", "content": "For suspected key exposure, immediately revoke the affected Coral API key and notify the incident lead. The planned rotation overlap does not apply to exposed keys."},
+    {"id": "3ad3b03f-8a4f-4477-9ca2-ab0000000005", "document_id": "doc-delta", "chunk_index": 0, "title": "Delta retention policy", "content": "Delta retains execution logs for 30 days. Export an approved incident record before the retention period ends if an investigation requires it."},
+    {"id": "3ad3b03f-8a4f-4477-9ca2-ab0000000006", "document_id": "doc-delta", "chunk_index": 1, "title": "Delta health checks", "content": "The Delta health endpoint reports whether the service is ready to receive requests. It does not report log-retention settings."}
+  ]
+}

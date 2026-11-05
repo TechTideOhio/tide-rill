@@ -1,0 +1,164 @@
+{
+  "version": 2,
+  "k": 3,
+  "query_ids": [
+    "q-rollback",
+    "q-exposed-key",
+    "q-retention",
+    "q-no-answer"
+  ],
+  "queries": [
+    {
+      "id": "q-rollback",
+      "judgment_status": "complete",
+      "judgments": [
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+          "grade": 2
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+          "grade": 1
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+          "grade": 0
+        }
+      ],
+      "ranking": [
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000004"
+      ]
+    },
+    {
+      "id": "q-exposed-key",
+      "judgment_status": "complete",
+      "judgments": [
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+          "grade": 1
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+          "grade": 2
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+          "grade": 0
+        }
+      ],
+      "ranking": [
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000006"
+      ]
+    },
+    {
+      "id": "q-retention",
+      "judgment_status": "complete",
+      "judgments": [
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+          "grade": 2
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+          "grade": 1
+        }
+      ],
+      "ranking": [
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000002"
+      ]
+    },
+    {
+      "id": "q-no-answer",
+      "judgment_status": "complete",
+      "judgments": [
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000004",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+          "grade": 0
+        },
+        {
+          "id": "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+          "grade": 0
+        }
+      ],
+      "ranking": [
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000002",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000003",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000001",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000005",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000006",
+        "3ad3b03f-8a4f-4477-9ca2-ab0000000004"
+      ]
+    }
+  ]
+}

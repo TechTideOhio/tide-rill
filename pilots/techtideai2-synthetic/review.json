@@ -1,0 +1,9 @@
+{
+  "review_type": "independent_ai_review",
+  "reviewer": "OpenCode general subagent ses_e6d2de712ffeHenL8GhfweydFz",
+  "blind_to_retrieval_results": true,
+  "reviewed_pairs": 24,
+  "disagreements": 0,
+  "verdict": "accept_draft",
+  "limitations": "AI review is not human adjudication. No-answer applies to this six-chunk corpus only."
+}

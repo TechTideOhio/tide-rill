@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "status": "draft_not_independently_reviewed",
+  "rubric": "2 = directly answers; 1 = useful context but not a direct answer; 0 = not relevant. Every query is judged against all six chunks.",
+  "queries": [
+    {"id": "q-rollback", "text": "How do I revert a Beacon production deployment?", "grades_by_chunk_suffix": {"0001": 2, "0002": 1, "0003": 0, "0004": 0, "0005": 0, "0006": 0}},
+    {"id": "q-exposed-key", "text": "What should I do first if a Coral API key may be exposed?", "grades_by_chunk_suffix": {"0001": 0, "0002": 0, "0003": 1, "0004": 2, "0005": 0, "0006": 0}},
+    {"id": "q-retention", "text": "How long are Delta execution logs kept?", "grades_by_chunk_suffix": {"0001": 0, "0002": 0, "0003": 0, "0004": 0, "0005": 2, "0006": 1}},
+    {"id": "q-no-answer", "text": "How many days are Beacon backups retained?", "grades_by_chunk_suffix": {"0001": 0, "0002": 0, "0003": 0, "0004": 0, "0005": 0, "0006": 0}}
+  ]
+}
